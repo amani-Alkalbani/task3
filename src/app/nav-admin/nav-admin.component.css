@@ -1,0 +1,21 @@
+@font-face {
+   font-family: 'MyFont';
+   src: url('/assets/NeonRaveItalic-GOD2g.ttf');
+ }
+
+.navbar{
+    background-color: rgb(90, 29, 29);
+    color: white;
+ }
+
+ .navbar .nav-item{
+    color: white;
+ }
+ 
+
+ .navbar-brand{
+   margin-right: 40px;
+   padding: none;
+   font-family: 'MyFont';
+   font-size: 20px;
+}

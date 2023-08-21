@@ -1,0 +1,20 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  
+ }
+
+ .navbar{
+    background-color: rgb(90, 29, 29);
+    color: white;
+ }
+
+ .navbar .nav-item{
+    color: white;
+ }
+ body{
+    overflow: auto;
+ }
+ 

@@ -1,0 +1,63 @@
+{
+  "restaurent": [
+    {
+      "name": "Ubhar Restaurant",
+      "Adress": "Al Kharjiyah St مسقط OM, مسقط 100, Oman22",
+      "email": "Ubhar@Restaurant.comm",
+      "id": 3
+    },
+    {
+      "name": "Bait Al Bahr",
+      "Adress": "Muscat",
+      "email": "Bait@itec.edu.om",
+      "id": 4
+    },
+    {
+      "name": "Mumtaz Mahal",
+      "Adress": "Muscat",
+      "email": "Mumtaz@itec.edu.om",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Ashish Mishra",
+      "password": "123@Pass",
+      "email": "ashish@gmail.com",
+      "id": 1,
+      "role": "User"
+    },
+    {
+      "email": "ashish@gmail.com",
+      "password": "123@Pass",
+      "id": 2,
+      "role": "User"
+    },
+    {
+      "email": "jsdfkj",
+      "password": "123@Pass",
+      "id": 3,
+      "role": "User"
+    },
+    {
+      "email": "amani.alkalbani66@gmail.com",
+      "password": "123@Pass",
+      "id": 5,
+      "role": "User"
+    },
+    {
+      "name": "Amani Alkalbani",
+      "password": "123@Pass",
+      "email": "Amani@itec.edu.om",
+      "id": 13,
+      "role": "Admin"
+    },
+    {
+      "name": "Amani",
+      "password": "123@Pass",
+      "email": "Amani22@itec.edu.om",
+      "role": "User",
+      "id": 14
+    }
+  ]
+}

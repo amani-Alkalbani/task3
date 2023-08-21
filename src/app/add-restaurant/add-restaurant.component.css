@@ -1,0 +1,11 @@
+ .card .card-header{
+
+    background-color: rgba(107, 58, 58, 0.421);
+}
+
+.card .btn{
+    background-color: rgb(111, 55, 55);
+}
+label{
+    color: brown;
+}
